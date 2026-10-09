@@ -22,6 +22,10 @@ en una sola plataforma.
 - HTML5 + CSS3 + JavaScript
 - Supabase (auth + base de datos) — próximamente
 - Vercel (deploy) — próximamente
+-  🐍 Python
+
+- Calculadora de precios de tatuaje (`python/calculadora.py`)
+- Próximamente: API de reservas con Flask
 
  Estado
 
